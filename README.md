@@ -9,4 +9,8 @@ The directory structure includes a specific folder for each phase of development
   - __CAM__: Dedicated to the part manufacturing and assembly process.
   - __CAS__: For simulation of end-to-end functionality and performance analysis.
 
- 
+ Disclaimer regarding intellectual property rights:
+
+The images in the initial concept multimedia resources are for reference only and will be replaced by sufficiently simplified abstract models.
+
+We do not claim authorship of these models; rather, we release the numerical analysis for non-profit purposes. However, you must request the necessary permissions for its publication.
