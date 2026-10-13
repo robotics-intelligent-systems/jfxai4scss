@@ -294,3 +294,7 @@ Each linked project retains its own license and attribution requirements. Source
 ## Documentation review record
 
 This expansion categorizes the complete supplied compendium, proposes adapter boundaries and AI evaluation gates, preserves MBSE and attribution intent, and marks unresolved identities and legacy dependencies. It does not add executable adapters, change operational systems or claim successful simulation tests.
+
+## Concept migration — 13 October 2026
+
+The modular hydrogen-electric helicopter illustration and its new proposed HEL-01–07 requirements are maintained in [JFXAI4CBS](https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/docs/requirements/transferred-platform-concepts.md). JFXAI4SCSS retains its satellite simulation scope, satellite-network Drawio and two CAD illustrations (airship and solar HAPS). No helicopter-specific requirements or SysML predecessor existed here.
